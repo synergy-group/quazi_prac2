@@ -1,0 +1,115 @@
+body{
+  background-image:url(itcode.jpg);
+  background-repeat: no-repeat;
+  background-size: 1500px 1500px;
+
+}
+h1{
+  text-align: center;
+  padding:10px;
+  color:black;
+  font-style: italic;
+  font-size: 80px;
+
+}
+
+
+.simple form{
+    text-align:center;
+    margin: 30px 270px;
+
+}
+h2{
+  font-weight: bold;
+  font-style: oblique;
+}
+
+#registration{
+    width:500px;
+    background-color:tan;
+    padding:2% 10%;
+opacity: .8;
+}
+#button{
+     padding:3%;
+     border-radius:5px;
+
+}
+#butt{
+  background-color: tomato;
+}
+.nam{
+  font-weight: bold;
+}
+
+.r1{
+  margin-bottom: 20px;
+  margin-left:40px;
+
+}
+.id{
+  font-weight: bold;
+
+
+}
+
+.r3{
+  margin-bottom: 20px;
+  margin-right: 200px;
+
+}
+.birth{
+
+margin-right: 50px;
+    font-weight: bold;
+
+}
+
+.r4{
+  margin-bottom: 20px;
+  margin-right: 235px;
+}
+.add{
+  margin-left: -10px;
+    font-weight: bold;
+
+}
+
+.r5{
+  margin:10px;
+  margin-right:45px;
+  margin-bottom: 20px;
+}
+.r6{
+  margin:-10px -40px;
+  margin-right:-35px;
+
+
+}
+.r7{
+  width: 150px;
+  height:50px;
+  margin-bottom:20px;
+  margin-left: 30px;
+  border-radius:5px;
+  }
+
+.em{
+    margin-left: -230px;
+      font-weight: bold;
+}
+
+.r9{
+  margin-bottom: 20px;
+  margin-left: 15px;
+
+}
+.ph{
+  margin-right:15px;
+    font-weight: bold;
+}
+.r10{
+  margin-right: 185px;
+    margin-bottom: 20px;
+
+}
